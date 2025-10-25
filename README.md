@@ -17,13 +17,13 @@ This project was my **first time using Tkinter**, and it helped me learn how to 
 ---
 
 ## 🗂️ Project Structure
-project_folder/
-│
-├── main.py # Main program (the code above)
-│
-└── config/ # Configuration folder (required)
-  ├── icon.png # App window icon (replace with your own image)
-  └── count.txt # Save file storing death count
+    project_folder/
+    │
+    ├── main.py # Main program (the code above)
+    │
+    └── config/ # Configuration folder (required)
+      ├── icon.png # App window icon (replace with your own image)
+      └── count.txt # Save file storing death count
 
 
 > ⚠️ **Important:**  
